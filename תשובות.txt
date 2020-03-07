@@ -1,0 +1,14 @@
+חלק א
+1. observer
+2. composite
+3. proxy
+4. prototype + strategy
+5. decorator
+6. visitor
+7. mediator
+8. chain of resp
+9. factory 
+10. strategy
+11. memento 
+12. builder 
+13. adapter 
